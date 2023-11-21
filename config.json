@@ -1,0 +1,6 @@
+{
+    "clientId": "YOUR_XCLIENT_ID",
+    "guildId": "YOUR_GUILD_ID",
+    "token": "YOUR_DISCORD_TOKEN",
+    "apiKey":"YOUR_OPENAI_KEY"
+}
